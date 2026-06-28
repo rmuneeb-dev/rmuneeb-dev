@@ -1,9 +1,14 @@
-Hi, I'm Muneeb Rehman 👋
+<div align="center">
+
+# Hi, I'm Muneeb Rehman 👋
 
 ### Frontend Developer • UI/UX Designer
 
 Building modern, responsive, and user-focused digital experiences with clean code and thoughtful design.
 
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -52,15 +57,14 @@ I'm a Frontend Developer and UI/UX Designer passionate about creating high-quali
 
 ---
 
+\
 ## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-  rmuneeb-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rmuneeb-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?
-  rmuneeb-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmuneeb-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,11 +103,13 @@ I'm a Frontend Developer and UI/UX Designer passionate about creating high-quali
 
 📧 Email: rmuneeb997@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/muneeb-rehman-7353382a3
+💼 LinkedIn: https://linkedin.com/in/[(https://www.linkedin.com/in/muneeb-rehman-7353382a3)
 
-🌐 Portfolio: 
+🌐 Portfolio: https://YOUR_PORTFOLIO
 
 ---
+
+<div align="center">
 
 ### Thanks for visiting my profile!
 
