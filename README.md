@@ -56,9 +56,11 @@ I'm a Frontend Developer and UI/UX Designer passionate about creating high-quali
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?rmuneeb-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?
+  rmuneeb-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?rmuneeb-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?
+  rmuneeb-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,7 +78,7 @@ I'm a Frontend Developer and UI/UX Designer passionate about creating high-quali
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rmuneeb-dev&theme=tokyo-night"/>
 
 </p>
 
